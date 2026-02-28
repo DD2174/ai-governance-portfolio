@@ -1,0 +1,4 @@
+Date,Department,User,Model,Prompt_Tokens,Completion_Tokens,Total_Tokens,Cost_Per_1K_Tokens,Total_Cost
+2026-02-01,Finance,jsmith,GPT-4,1200,800,2000,0.03,
+2026-02-01,Marketing,adoe,GPT-4,900,600,1500,0.03,
+2026-02-02,Operations,rlee,GPT-3.5,1500,700,2200,0.002,
