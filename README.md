@@ -11,5 +11,4 @@ All systems are documented with:
 - Data flow explanations
 - Governance controls
 - ROI metrics
-- Case studies
-Executive portfolio of AI governance, automation, RAG, agents, and LLM cost controls—built with audit-ready documentation, ROI tracking, and system diagrams.
+- Structured case studies
